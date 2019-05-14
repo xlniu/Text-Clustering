@@ -1,5 +1,5 @@
 # Text-Clustering
-Text clustering demo
+Text clustering demo<br>
 csdn博客：https://blog.csdn.net/xiaoleiniu1314/article/details/90208232
 
 由于工作需要，使用了聚类方法在文本语料中挖掘类别信息，下面是一个demo，供大家参考。实验数据由于公司原因不便公开。
